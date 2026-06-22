@@ -25,3 +25,12 @@ dist-ssr
 
 
 .env
+
+
+
+
+# Create:
+# public/_redirects
+
+# Content:
+# /* /index.html 200
